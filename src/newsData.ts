@@ -1269,7 +1269,7 @@ We look forward to continuing our partnership to build India's railway infrastru
     title: `High Productivity Freight Networks – India`,
     date: 'Jul 15, 2024',
     category: 'Infrastructure',
-    image: 'https://images.unsplash.com/photo-1541417904950-b855846fe074?q=80&w=1200',
+    image: '/freight_networks.png',
     overview: `Transforming bulk freight transport with heavy-haul rail tracks and logistics terminals.
 The project is developed by the Dedicated Freight Corridor Corporation of India (DFCCIL).
 It involves constructing high-capacity freight rail tracks, container yards, and substations.
@@ -1966,7 +1966,7 @@ We look forward to continuing our partnership to build India's heritage infrastr
     title: `Ahmedabad-Dholera Express – India`,
     date: 'Jun 10, 2023',
     category: 'Infrastructure',
-    image: 'https://images.unsplash.com/photo-1518005020951-eccb494ad742?q=80&w=1200',
+    image: '/dholera_expressway.png',
     overview: `A high-speed expressway corridor connecting Ahmedabad to Dholera Special Investment Region.
 The project is developed and managed by the National Highways Authority of India (NHAI).
 It involves constructing a 109 km multi-lane concrete roadway and river crossing bridges.
