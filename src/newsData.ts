@@ -919,7 +919,7 @@ The project demonstrates the potential of smart utility design to improve urban 
     title: `Navi Mumbai International Airport – India`,
     date: 'Jan 15, 2025',
     category: 'Infrastructure',
-    image: '/user2.png',
+    image: '/airport.jpg',
     overview: `A world-class greenfield airport terminal and runway project to relieve Mumbai's congestion.
 Located in Navi Mumbai, Maharashtra, India, this airport is developed by Adani Airport Holdings.
 The project is executed under Navi Mumbai International Airport Limited (NMIAL), a special SPV.
@@ -987,7 +987,7 @@ The project highlights the success of public-private partnerships in building cr
     title: `Railway and Metro Projects – Global`,
     date: 'Dec 05, 2024',
     category: 'Infrastructure',
-    image: '/user3.jpeg',
+    image: '/metro-tunnel.jpeg',
     overview: `Transit infrastructure delivery covering underground metro lines and elevated viaducts globally.
 DPR Construction's Infrastructure division executes rail and metro projects in multiple countries.
 This includes projects in India, the United States, Australia, the United Kingdom, and Europe.
@@ -1269,7 +1269,7 @@ We look forward to continuing our partnership to build India's railway infrastru
     title: `High Productivity Freight Networks – India`,
     date: 'Jul 15, 2024',
     category: 'Infrastructure',
-    image: 'https://images.unsplash.com/photo-1474487548417-781f37640e4b?q=80&w=1200',
+    image: 'https://images.unsplash.com/photo-1541417904950-b855846fe074?q=80&w=1200',
     overview: `Transforming bulk freight transport with heavy-haul rail tracks and logistics terminals.
 The project is developed by the Dedicated Freight Corridor Corporation of India (DFCCIL).
 It involves constructing high-capacity freight rail tracks, container yards, and substations.
@@ -1966,7 +1966,7 @@ We look forward to continuing our partnership to build India's heritage infrastr
     title: `Ahmedabad-Dholera Express – India`,
     date: 'Jun 10, 2023',
     category: 'Infrastructure',
-    image: 'https://images.unsplash.com/photo-1590483736622-39da8af75bba?q=80&w=1200',
+    image: 'https://images.unsplash.com/photo-1518005020951-eccb494ad742?q=80&w=1200',
     overview: `A high-speed expressway corridor connecting Ahmedabad to Dholera Special Investment Region.
 The project is developed and managed by the National Highways Authority of India (NHAI).
 It involves constructing a 109 km multi-lane concrete roadway and river crossing bridges.
