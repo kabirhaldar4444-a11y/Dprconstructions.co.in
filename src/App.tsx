@@ -1863,6 +1863,18 @@ const NewsDetailPage = ({ slug }: { slug: string }) => {
                     <div className="text-slate-900 font-medium text-sm">{(article as any).implementingAgency}</div>
                   </div>
                 )}
+                {(article as any).contractor && (
+                  <div>
+                    <div className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-1">Constructor</div>
+                    <div className="text-slate-900 font-medium text-sm">{(article as any).contractor}</div>
+                  </div>
+                )}
+                {(article as any).subcontractor && (
+                  <div>
+                    <div className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-1">Sub-Constructor</div>
+                    <div className="text-slate-900 font-medium text-sm">{(article as any).subcontractor}</div>
+                  </div>
+                )}
                 {(article as any).companies && (article as any).companies.length > 0 && (
                   <div>
                     <div className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-1">Key Partners & Companies</div>

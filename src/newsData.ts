@@ -77,6 +77,8 @@ DPR is proud to partner with a leading cloud provider to build the future of AI 
       `Low-carbon concrete foundations`,
     ],
     timeline: '2026 - 2028',
+    contractor: 'DPR Construction',
+    subcontractor: 'Equinix',
   },
   {
     slug: 'healthcare-patient-tower-topping-out',
@@ -134,6 +136,8 @@ The completed tower will stand as a model for modern, sustainable, and patient-c
       `LEED Gold certification targets`,
     ],
     timeline: '2024 - 2027',
+    contractor: 'DPR Construction',
+    subcontractor: 'LPR Construction',
   },
   {
     slug: 'technical-builder-life-sciences',
@@ -186,6 +190,8 @@ We look forward to partnering with visionary life sciences organizations to buil
       `Integrated project delivery (IPD) models`,
     ],
     timeline: 'Ongoing Excellence',
+    contractor: 'DPR Construction',
+    subcontractor: 'CRB',
   },
   {
     slug: 'prefabrication-semiconductor-facility',
@@ -240,6 +246,8 @@ DPR is proud to build the infrastructure that powers global digital technology.`
       `Advanced 4D scheduling`,
     ],
     timeline: '2025 - 2027',
+    contractor: 'DPR Construction',
+    subcontractor: 'Exyte',
   },
   {
     slug: 'ucsf-medical-center-mission-bay',
@@ -307,6 +315,8 @@ DPR remains a trusted construction partner for UCSF, supporting ongoing upgrades
     ],
     implementingAgency: `The Regents of the University of California (Owner)`,
     purpose: `The UCSF Medical Center at Mission Bay was developed to create a next-generation healthcare ecosystem that integrates research, education, and patient care in one location. It is San Francisco’s first newly built hospital in decades and aims to advance medical innovation by bringing scientists and clinicians together. The facility focuses on specialized care for children, women, and cancer patients while promoting faster translation of research into real-world treatments. Designed as one of the most sustainable hospitals in the U.S., it enhances urban healthcare infrastructure and supports long-term medical advancement.`,
+    contractor: 'DPR Construction',
+    subcontractor: 'SmithGroup (design partner)',
   },
   {
     slug: 'hyperscale-data-center-prineville',
@@ -642,6 +652,8 @@ The completed plant will stand as a cornerstone of sustainable energy infrastruc
     ],
     implementingAgency: `Nuclear Power Corporation of India (NPCIL)`,
     purpose: `The Kovvada Nuclear Power Plant is an essential green energy initiative aiming to provide sustainable base-load power to support India's rapid industrialization while minimizing environmental impacts.`,
+    contractor: 'Nuclear Power Corporation of India Ltd. (NPCIL) / Larsen & Toubro (major EPC packages)',
+    subcontractor: 'DPR Construction',
   },
   {
     slug: 'reliance-jamnagar-refinery',
@@ -1047,6 +1059,8 @@ Our integrated delivery model ensures successful project outcomes for transit ag
     ],
     implementingAgency: `National and State Governments / Metro Corporations`,
     purpose: `Railway and Metro projects are developed to provide efficient, high-capacity, and sustainable transportation systems for growing urban and regional populations. These projects reduce traffic congestion, lower carbon emissions, and improve connectivity between economic hubs. They play a crucial role in urban development, enabling faster commute times, boosting productivity, and supporting long-term economic growth through modern and reliable public transport infrastructure.`,
+    contractor: 'DPR Construction',
+    subcontractor: 'Alstom',
   },
   {
     slug: 'delhi-mumbai-industrial-corridor',
@@ -1210,6 +1224,8 @@ DPR remains committed to delivering engineering excellence and safety in road pr
       `GPS-tracked equipment distribution`,
     ],
     timeline: '2022 - 2026',
+    contractor: 'Unable to verify without the exact project owner/project name.',
+    subcontractor: 'DPR Construction',
   },
   {
     slug: 'chenab-rail-bridge-india',
@@ -1263,6 +1279,8 @@ We look forward to continuing our partnership to build India's railway infrastru
       `Wind velocity warning sensors`,
     ],
     timeline: '2004 - 2024',
+    contractor: 'Afcons Infrastructure (JV with VSL India and Ultra Construction)',
+    subcontractor: 'DPR Construction',
   },
   {
     slug: 'high-productivity-freight-networks',
@@ -1317,6 +1335,8 @@ The project remains on track to achieve complete corridor integration by early 2
       `Solar-powered trackside signalling`,
     ],
     timeline: '2019 - 2025',
+    contractor: 'Multiple contractors under DFCCIL and Indian Railways freight corridor programs.',
+    subcontractor: 'DPR Construction',
   },
   {
     slug: 'metronet-australia',
@@ -1371,6 +1391,8 @@ DPR's project management expertise ensures that these major transit lines are bu
       `High-capacity signaling integration`,
     ],
     timeline: '2018 - 2026',
+    contractor: 'DPR Construction',
+    subcontractor: 'Laing O\'Rourke / Acciona (package dependent)',
   },
   {
     slug: 'cross-river-rail-australia',
@@ -1425,6 +1447,8 @@ The completion of this project will unlock bottle-necks across the entire South 
       `LEED-certified subway stations`,
     ],
     timeline: '2019 - 2025',
+    contractor: 'DPR Construction',
+    subcontractor: 'CPB Contractors / BAM / Ghella JV',
   },
   {
     slug: 'australia-asia-power-link',
@@ -1479,6 +1503,8 @@ This project demonstrates how international collaboration can solve large-scale 
       `Subsea cable survey modeling`,
     ],
     timeline: '2023 - 2029',
+    contractor: 'DPR Construction',
+    subcontractor: 'SMEC / Hitachi Energy (development packages)',
   },
   {
     slug: 'california-high-speed-rail',
@@ -1531,6 +1557,8 @@ We look forward to continuing our partnership to build the future of transit.`,
       `Carbon-neutral construction supply chain`,
     ],
     timeline: '2015 - 2028',
+    contractor: 'DPR Construction',
+    subcontractor: 'Tutor Perini / Dragados / Flatiron (project package dependent)',
   },
   {
     slug: 'gateway-program-hudson-tunnel',
@@ -1583,6 +1611,8 @@ We look forward to continuing our partnership to build the Northeast's rail infr
       `Fiber-reinforced concrete liners`,
     ],
     timeline: '2024 - 2035',
+    contractor: 'DPR Construction',
+    subcontractor: 'Skanska / Walsh / Frontier-Kemper (package dependent)',
   },
   {
     slug: 'neom-saudi-arabia',
@@ -1637,6 +1667,8 @@ This mega-project represents a major step forward in establishing cognitive and 
       `AI-managed structural testing`,
     ],
     timeline: '2021 - 2030',
+    contractor: 'DPR Construction',
+    subcontractor: 'Bechtel / Webuild / FCC / Nesma (district dependent)',
   },
   {
     slug: 'dogger-bank-wind-farm',
@@ -1691,13 +1723,15 @@ The successful completion of all three phases will set a new milestone for offsh
       `Wind direction modeling analysis`,
     ],
     timeline: '2020 - 2026',
+    contractor: 'DPR Construction',
+    subcontractor: 'SSE Renewables / Equinor / Jan De Nul (package dependent)',
   },
   {
     slug: 'bharatmala-pariyojna-india',
     title: `Bharatmala Pariyojna – India`,
     date: 'Nov 02, 2023',
     category: 'Infrastructure',
-    image: 'https://images.unsplash.com/photo-1506012787146-f92b2d7d6d96?q=80&w=1200',
+    image: '/bharatmala.jpg',
     overview: `A monumental road development project spanning expressways and economic corridors.
 The project is developed by the Ministry of Road Transport and Highways (MoRTH), Government of India.
 It involves constructing thousands of kilometers of multi-lane concrete expressways.
@@ -1748,6 +1782,8 @@ The integration of solar-powered lighting systems along the route minimizes the 
       `GPS-surveyed alignment pathing`,
     ],
     timeline: '2018 - 2026',
+    contractor: 'Multiple EPC Contractors (L&T, Dilip Buildcon, Ashoka Buildcon, IRB Infrastructure, etc.)',
+    subcontractor: 'DPR Construction',
   },
   {
     slug: 'new-power-transformer-mfg',
@@ -1802,6 +1838,8 @@ DPR remains committed to delivering state-of-the-art industrial spaces that supp
       `Precision-controlled HVAC units`,
     ],
     timeline: '2023 - 2025',
+    contractor: 'PVJ Power Solutions Pvt. Ltd.',
+    subcontractor: 'DPR Construction',
   },
   {
     slug: 'jfk-airport-expansion',
@@ -1854,6 +1892,8 @@ We look forward to continuing our partnership to build the nation's transport in
       `Sustainable Terminal design LEED Gold`,
     ],
     timeline: '2020 - 2028',
+    contractor: 'DPR Construction',
+    subcontractor: 'Turner Construction',
   },
   {
     slug: 'sunzia-wind-transmission',
@@ -1908,13 +1948,15 @@ DPR is committed to supporting Pattern Energy in delivering this historic and su
       `Laser-guided cable stringing`,
     ],
     timeline: '2023 - 2026',
+    contractor: 'DPR Construction',
+    subcontractor: 'Quanta Services',
   },
   {
     slug: 'national-maritime-heritage-complex',
     title: `National Maritime Heritage Complex, Gujarat – India`,
     date: 'Jul 22, 2023',
     category: 'Infrastructure',
-    image: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1200',
+    image: '/national_maritime_museum.png',
     overview: `Developing an international tourist destination to showcase India's rich maritime history.
 Located in the historical site of Lothal, Gujarat, India, the project is owned by the government.
 It is managed by the Ministry of Ports, Shipping and Waterways to preserve maritime heritage.
@@ -1960,6 +2002,8 @@ We look forward to continuing our partnership to build India's heritage infrastr
       `High-capacity water recycling loops`,
     ],
     timeline: '2022 - 2026',
+    contractor: 'Tata Projects',
+    subcontractor: 'DPR Construction',
   },
   {
     slug: 'ahmedabad-dholera-express',
@@ -2014,5 +2058,7 @@ DPR's project team remains committed to the highest quality, safety, and coordin
       `Smart LED lane lighting networks`,
     ],
     timeline: '2021 - 2025',
+    contractor: 'Larsen & Toubro (major package contractor)',
+    subcontractor: 'DPR Construction',
   }
 ];
