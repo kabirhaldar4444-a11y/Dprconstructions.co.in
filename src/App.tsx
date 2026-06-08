@@ -881,7 +881,7 @@ const ContactPage = () => {
     { city: "Redwood City, USA", type: "Global Headquarters", address: "1450 Veterans Blvd, Redwood City, CA 94063", phone: "+1 650 592 4800", email: "hq@dpr-construction.com", lat: 37.4852, lng: -122.2364 },
     { city: "Dubai, UAE", type: "Middle East Hub", address: "Level 45, Burj Daman, DIFC, Dubai", phone: "+971 4 321 0000", email: "dubai@dpr-construction.com", lat: 25.2120, lng: 55.2810 },
     { city: "Washington, USA", type: "North America Office", address: "1200 Pennsylvania Ave NW, Washington, DC 20004", phone: "+1 202 555 0123", email: "usa@dpr-construction.com", lat: 38.8954, lng: -77.0287 },
-    { city: "Mumbai, India", type: "Asia Pacific HQ", address: "Bandra Kurla Complex, Mumbai, Maharashtra 400051", phone: "+91 22 4000 0000", email: "india@dpr-construction.com", lat: 19.0660, lng: 72.8654 },
+    { city: "Mumbai, India", type: "Asia Pacific HQ", address: "A10, 19 Floor, The Capital Building, Bandra Kurla Complex, Mumbai, Maharashtra 400051, India", phone: "+91 22 4000 0000", email: "india@dpr-construction.com", lat: 19.0660, lng: 72.8654 },
     { city: "Tokyo, Japan", type: "East Asia Office", address: "Marunouchi, Chiyoda City, Tokyo 100-0005", phone: "+81 3 0000 0000", email: "japan@dpr-construction.com", lat: 35.6812, lng: 139.7671 },
     { city: "Canberra, Australia", type: "Oceania Office", address: "15 Constitution Ave, Canberra ACT 2601", phone: "+61 2 0000 0000", email: "australia@dpr-construction.com", lat: -35.2809, lng: 149.1300 },
     { city: "Mexico City, Mexico", type: "Latin America Office", address: "Paseo de la Reforma 505, Cuauhtémoc, Mexico City", phone: "+52 55 5000 0000", email: "mexico@dpr-construction.com", lat: 19.4260, lng: -99.1729 },
@@ -1168,7 +1168,7 @@ const Footer = () => {
             <p>Global HQ : 1450 Veterans Blvd,Redwood City, CA 94063 , USA</p>
           </div>
           <div>
-            <p>Asia HQ : H-10 H Block , 10th Floor , Bandra Kurla Complex, Mumbai, Maharashtra<br />400051 ,India</p>
+            <p>Asia HQ : A10, 19 Floor, The Capital Building, Bandra Kurla Complex, Mumbai, Maharashtra<br />400051, India</p>
           </div>
         </div>
 
